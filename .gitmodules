@@ -1,3 +1,7 @@
 [submodule "03-pratica-containers"]
 	path = 03-pratica-containers
 	url = https://github.com/0kauaa/03-pratica-containers
+
+[submodule "pratica-bd-distribuido"]
+ path = pratica-bd-distribuido
+ url = https://github.com/0kauaa/pratica-bd-distribuido
